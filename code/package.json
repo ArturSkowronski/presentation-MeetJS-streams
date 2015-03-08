@@ -1,0 +1,19 @@
+{
+  "name": "presentation-MeetJS-streams",
+  "version": "1.0.0",
+  "description": "Presentation for Krakow Meet.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArturSkowronski/presentation-MeetJS-streams"
+  },
+  "author": "Artur Skowronski (artur.skowronski@outlook.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArturSkowronski/presentation-MeetJS-streams/issues"
+  },
+  "homepage": "https://github.com/ArturSkowronski/presentation-MeetJS-streams"
+}
