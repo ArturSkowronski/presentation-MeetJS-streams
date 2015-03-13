@@ -1,0 +1,1 @@
+input.pipe(transform).pipe(output)
